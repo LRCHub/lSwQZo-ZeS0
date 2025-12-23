@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "太陽が昇らない世界 - A World Where the Sun Never Rises",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-23T06:23:59.780879Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "太陽が昇らない世界",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_太陽が昇らない世界_Aimer.txt"
+    }
+  ]
+}
